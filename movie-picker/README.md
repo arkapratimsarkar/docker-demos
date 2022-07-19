@@ -6,8 +6,8 @@ I have copied the code from - https://github.com/python-engineer/python-fun/tree
 
 # Build
 
-docker build -t <tagname> .
+docker build -t [tagname] .
 
 # Run
 
-docker run -it <tagname>
+docker run -it [tagname]
